@@ -2,7 +2,7 @@
 
 <!-- ============ ANIMATED HEADER BANNER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Babinton%20J&fontSize=64&fontColor=F2C811&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Power%20BI%20Developer%20%7C%20Power%20Platform%20Specialist&descSize=18&descAlignY=60&descColor=FFFFFF" alt="Babinton J banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Babinton%20J&fontSize=64&fontColor=F2C811&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer%20%7C%20Power%20Platform%20Specialist&descSize=18&descAlignY=60&descColor=FFFFFF" alt="Babinton J banner" />
 </p>
 
 <!-- ============ ANIMATED TYPING TAGLINE (GIF-STYLE) ============ -->
@@ -28,7 +28,7 @@
 
 ## 👋 About Me
 
-I'm a **Data Engineer & Power BI Developer** with **7+ years** of experience building data models, dashboards, and automation solutions that replace manual reporting with reliable, governed, decision-ready insights.
+I'm a **Data Analyst & Power BI Developer** with **7+ years** of experience building data models, dashboards, and automation solutions that replace manual reporting with reliable, governed, decision-ready insights.
 
 My work sits at the intersection of **analytics, automation, and compliance**:
 
