@@ -7,21 +7,21 @@
 
 <!-- ============ ANIMATED TYPING TAGLINE (GIF-STYLE) ============ -->
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Babinton1223">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=F2C811&center=true&vCenter=true&width=760&lines=Turning+raw+data+into+executive-ready+insights;Power+BI+%7C+DAX+%7C+SQL+%7C+Power+Apps+%7C+Power+Automate;7%2B+Years+of+Experience+in+Data+%26+BI;Automating+manual+work+%E2%80%94+one+pipeline+at+a+time" alt="Typing animation" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Babinton1223&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Open%20to-New%20Opportunities-brightgreen?style=flat-square" alt="Open to work" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/babinton-j"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:babinton1223@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/Babinton1223"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
@@ -127,7 +127,7 @@ My work sits at the intersection of **analytics, automation, and compliance**:
 | 📅 **WBR & MBR Reporting Automation** | Leadership dashboards with live SQL, drill-downs, automated data collection/cleaning/validation | `Power BI` `DAX` `SQL` `Power Automate` | +15% operational efficiency |
 | 💸 **Price Drop Monitoring Analysis** | RCA + "4 Why" analysis to eliminate pricing false positives across 2B+ SKUs | `Power BI` `MySQL` | 50% reduction in price drops |
 
-> 📁 **Add repo links here** → e.g. `[View Repo](https://github.com/YOUR_GITHUB_USERNAME/your-repo)` with sanitized/sample data and screenshots.
+> 📁 **Add repo links here** → e.g. `[View Repo](https://github.com/Babinton1223/your-repo)` with sanitized/sample data and screenshots.
 
 ---
 
@@ -153,12 +153,12 @@ flowchart LR
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Babinton1223&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babinton1223&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Babinton1223&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
@@ -188,7 +188,7 @@ flowchart LR
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/babinton-j"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:babinton1223@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
