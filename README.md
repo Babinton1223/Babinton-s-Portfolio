@@ -1,4 +1,3 @@
-# Babinton-s-Portfolio
 
 <!-- ============ ANIMATED HEADER BANNER ============ -->
 <p align="center">
